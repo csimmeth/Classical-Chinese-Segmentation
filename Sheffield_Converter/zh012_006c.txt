@@ -4,6 +4,7 @@
 六 number I
 持 noun I
 守 noun N
+
 自 noun I
 古 noun N
 聖 noun I
@@ -14,8 +15,10 @@
 爲 preposition I
 本 noun I
 。 punctuation I
+
 士 noun I
 毅 noun N
+
 聖 noun I
 賢 noun N
 千 set_phrase I
@@ -23,6 +26,7 @@
 萬 set_phrase N
 語 set_phrase N
 ， punctuation I
+
 只 conjunction I
 要 conjunction N
 人 noun I
@@ -32,13 +36,16 @@
 本 noun I
 心 noun N
 。 punctuation I
+
 夔 noun I
 孫 noun N
+
 心 noun I
 若 conjunction I
 不 particle I
 存 verb I
 ， punctuation I
+
 一 noun I
 身 noun N
 便 verb I
@@ -47,18 +54,22 @@
 主 set_phrase N
 宰 set_phrase N
 。 punctuation I
+
 祖 noun I
 道 noun N
+
 纔 adverb I
 出 verb I
 門 verb N
 ， punctuation I
+
 便 verb I
 千 set_phrase I
 岐 set_phrase N
 萬 set_phrase N
 轍 set_phrase N
 ， punctuation I
+
 若 conjunction I
 不 particle I
 是 verb I
@@ -69,15 +80,18 @@
 主 verb I
 宰 verb N
 ， punctuation I
+
 如 question_word I
 何 question_word N
 得 verb I
 是 verb I
 道 noun I
 夫 noun N
+
 心 noun I
 在 verb I
 ， punctuation I
+
 羣 noun I
 妄 noun N
 自 noun I
@@ -85,20 +99,24 @@
 退 verb I
 聽 verb N
 。 punctuation I
+
 文 noun I
 蔚 noun N
+
 人 noun I
 只 conjunction I
 有 conjunction N
 箇 classifier I
 心 noun I
 ， punctuation I
+
 若 conjunction I
 不 particle I
 降 verb I
 伏 verb N
 得 verb I
 ， punctuation I
+
 做 verb I
 甚 question_word I
 麽 question_word N
@@ -106,6 +124,7 @@
 一 number I
 作 verb I
 ： punctuation I
+
 如 question_word I
 何 question_word N
 做 verb I
@@ -113,13 +132,16 @@
 事 noun I
 成 verb I
 ” punctuation I
+
 僩 noun I
+
 人 noun I
 精 noun I
 神 noun N
 飛 verb I
 揚 verb N
 ， punctuation I
+
 心 noun I
 不 particle I
 在 verb I
@@ -128,11 +150,14 @@
 裏 noun I
 面 noun N
 ， punctuation I
+
 便 verb I
 害 verb I
 事 noun I
 。 punctuation I
+
 節 noun I
+
 未 particle I
 有 verb I
 心 noun I
@@ -144,6 +169,7 @@
 學 noun N
 者 noun N
 。 punctuation I
+
 人 noun I
 心 noun N
 萬 noun I
@@ -151,16 +177,19 @@
 之 RelM I
 主 noun I
 ， punctuation I
+
 走 set_phrase I
 東 set_phrase N
 走 set_phrase N
 西 set_phrase N
 ， punctuation I
+
 如 question_word I
 何 question_word N
 了 verb I
 得 verb N
 砥 noun I
+
 人 noun I
 心 noun N
 炯 set_phrase I
@@ -168,6 +197,7 @@
 在 set_phrase N
 此 set_phrase N
 ， punctuation I
+
 則 conjunction I
 四 noun I
 體 noun N
@@ -176,12 +206,14 @@
 羈 set_phrase N
 束 set_phrase N
 ， punctuation I
+
 而 conjunction I
 自 set_phrase I
 入 set_phrase N
 規 set_phrase N
 矩 set_phrase N
 。 punctuation I
+
 只 classifier I
 爲 preposition I
 人 noun I
@@ -191,6 +223,7 @@
 緩 noun N
 時 expression I
 ， punctuation I
+
 故 noun I
 立 verb I
 許 verb I
@@ -202,12 +235,14 @@
 持 verb N
 之 RelM I
 。 punctuation I
+
 但 conjunction I
 常 adverb I
 常 adverb N
 提 verb I
 警 verb N
 ， punctuation I
+
 教 verb I
 身 noun I
 入 verb I
@@ -215,6 +250,7 @@
 矩 noun N
 內 expression I
 ， punctuation I
+
 則 conjunction I
 此 noun I
 心 noun N
@@ -222,17 +258,20 @@
 放 noun I
 逸 noun N
 ， punctuation I
+
 而 conjunction I
 炯 adverb I
 然 adverb N
 在 verb I
 矣 particle I
 。 punctuation I
+
 心 noun I
 常 adverb I
 惺 verb I
 惺 verb N
 ， punctuation I
+
 以 preposition I
 規 noun I
 矩 noun N
@@ -240,6 +279,7 @@
 檢 verb N
 之 RelM I
 ， punctuation I
+
 此 pronoun I
 內 expression I
 外 expression I
@@ -250,8 +290,10 @@
 道 noun I
 也 particle I
 。 punctuation I
+
 升 noun I
 卿 noun N
+
 古 noun I
 人 noun N
 瞽 set_phrase I
@@ -261,6 +303,7 @@
 之 pronoun I
 類 classifier I
 ， punctuation I
+
 是 verb I
 規 set_phrase I
 戒 set_phrase N
@@ -269,17 +312,20 @@
 之 RelM I
 意 noun I
 ， punctuation I
+
 無 set_phrase I
 時 set_phrase N
 不 set_phrase N
 然 set_phrase N
 。 punctuation I
+
 便 verb I
 他 pronoun I
 恁 adverb I
 地 adverb N
 炒 verb I
 ， punctuation I
+
 自 pronoun I
 是 verb I
 使 verb I
@@ -288,6 +334,7 @@
 不 particle I
 着 verb I
 。 punctuation I
+
 大 verb I
 學 noun I
 問 noun N
@@ -296,6 +343,7 @@
 警 verb I
 省 verb N
 。 punctuation I
+
 且 conjunction I
 如 preposition I
 瑞 noun I
@@ -309,6 +357,7 @@
 自 verb I
 問 verb N
 ： punctuation I
+
 主 noun I
 人 noun N
 翁 noun N
@@ -317,15 +366,18 @@
 否 question_word I
 ？ punctuation I
 ” punctuation I
+
 又 adverb I
 自 verb I
 答 verb N
 曰 verb I
 ： punctuation I
+
 惺 verb I
 惺 verb N
 。 punctuation I
 ” punctuation I
+
 今 expression I
 時 expression N
 學 noun I
@@ -334,19 +386,23 @@
 如 conjunction N
 此 pronoun I
 。 punctuation I
+
 文 noun I
 蔚 noun N
+
 人 noun I
 有 verb I
 此 noun I
 心 noun N
 ， punctuation I
+
 便 verb I
 知 verb I
 有 verb I
 此 noun I
 身 noun N
 。 punctuation I
+
 人 noun I
 昏 set_phrase I
 昧 set_phrase N
@@ -356,6 +412,7 @@
 此 noun I
 心 noun N
 ， punctuation I
+
 便 verb I
 如 preposition I
 人 noun I
@@ -367,36 +424,43 @@
 此 noun I
 身 noun N
 。 punctuation I
+
 人 noun I
 雖 conjunction I
 困 verb I
 睡 verb N
 ， punctuation I
+
 得 verb I
 人 noun I
 喚 verb I
 覺 verb N
 ， punctuation I
+
 則 conjunction I
 此 noun I
 身 noun N
 自 pronoun I
 在 verb I
 。 punctuation I
+
 心 noun I
 如 conjunction I
 此 conjunction N
 ， punctuation I
+
 方 noun I
 其 verb I
 昏 verb I
 蔽 verb N
 ， punctuation I
+
 得 verb I
 人 noun I
 警 verb I
 覺 verb N
 ， punctuation I
+
 則 conjunction I
 此 noun I
 心 noun N
@@ -405,7 +469,9 @@
 這 expression I
 裏 expression N
 。 punctuation I
+
 廣 noun I
+
 心 noun I
 只 conjunction I
 是 conjunction N
@@ -413,6 +479,7 @@
 箇 classifier I
 心 noun I
 ， punctuation I
+
 是 conjunction I
 以 conjunction N
 一 number I
@@ -423,20 +490,25 @@
 箇 classifier I
 心 noun I
 。 punctuation I
+
 所 adverb I
 謂 adverb N
 存 verb I
 ， punctuation I
+
 所 adverb I
 謂 adverb N
 收 verb I
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 喚 verb I
 醒 verb N
 。 punctuation I
+
 廣 noun I
+
 人 noun I
 惟 adverb I
 有 verb I
@@ -445,14 +517,17 @@
 是 verb I
 主 noun I
 ， punctuation I
+
 要 verb I
 常 adverb I
 常 adverb N
 喚 verb I
 醒 verb N
 。 punctuation I
+
 敬 noun I
 仲 noun N
+
 人 noun I
 自 pronoun I
 知 verb I
@@ -460,6 +535,7 @@
 病 noun I
 者 pronoun I
 ， punctuation I
+
 是 verb I
 未 adverb I
 嘗 adverb N
@@ -470,8 +546,10 @@
 省 verb N
 也 particle I
 。 punctuation I
+
 升 noun I
 卿 noun N
+
 試 verb I
 定 verb I
 精 noun I
@@ -480,6 +558,7 @@
 一 verb N
 看 verb N
 ， punctuation I
+
 許 verb I
 多 verb I
 暗 set_phrase I
@@ -493,12 +572,14 @@
 瓦 set_phrase N
 解 set_phrase N
 。 punctuation I
+
 太 noun I
 祖 noun N
 月 noun I
 詩 noun N
 曰 verb I
 ： punctuation I
+
 未 particle I
 離 verb I
 海 noun I
@@ -507,6 +588,7 @@
 山 noun I
 黑 verb I
 ， punctuation I
+
 才 adverb I
 到 verb I
 天 noun I
@@ -515,25 +597,31 @@
 國 noun N
 明 verb I
 ” punctuation I
+
 日 noun I
 未 noun N
 上 noun I
 時 noun N
 ， punctuation I
+
 黑 verb I
 地 noun I
 ， punctuation I
+
 一 number I
 絲 noun I
 線 noun N
 ， punctuation I
+
 路 noun I
 上 noun N
 便 verb I
 明 verb I
 。 punctuation I
+
 伯 noun I
 羽 noun N
+
 人 noun I
 常 adverb I
 須 verb I
@@ -543,6 +631,7 @@
 身 noun I
 心 noun N
 ， punctuation I
+
 使 verb I
 精 noun I
 神 noun N
@@ -551,6 +640,7 @@
 這 expression I
 裏 expression N
 。 punctuation I
+
 似 preposition I
 擔 noun I
 百 classifier I
@@ -560,6 +650,7 @@
 相 verb I
 似 verb N
 ， punctuation I
+
 須 verb I
 硬 verb I
 着 verb I
@@ -568,10 +659,12 @@
 擔 noun I
 賀 noun I
 孫 noun N
+
 學 noun I
 者 noun N
 學 verb I
 ， punctuation I
+
 未 particle I
 問 verb I
 真 noun I
@@ -580,6 +673,7 @@
 力 noun I
 行 noun N
 ， punctuation I
+
 且 conjunction I
 要 verb I
 收 verb I
@@ -587,6 +681,7 @@
 此 noun I
 心 noun N
 ， punctuation I
+
 令 noun I
 有 verb I
 箇 classifier I
@@ -594,6 +689,7 @@
 放 verb N
 處 noun I
 。 punctuation I
+
 若 conjunction I
 收 verb I
 斂 verb N
@@ -605,6 +701,7 @@
 安 verb I
 頓 verb N
 ， punctuation I
+
 許 verb I
 多 verb I
 胡 set_phrase I
@@ -612,6 +709,7 @@
 亂 set_phrase N
 想 set_phrase N
 ， punctuation I
+
 則 conjunction I
 久 verb I
 久 verb I
@@ -622,12 +720,14 @@
 上 verb I
 輕 verb I
 ， punctuation I
+
 於 preposition I
 義 noun I
 理 noun N
 上 verb I
 重 verb I
 。 punctuation I
+
 須 verb I
 是 verb I
 教 verb I
@@ -639,6 +739,7 @@
 物 noun I
 欲 noun N
 ， punctuation I
+
 如 preposition I
 秤 noun I
 令 noun N
@@ -646,6 +747,7 @@
 低 verb I
 昂 verb N
 ， punctuation I
+
 即 adverb I
 見 verb I
 得 verb N
@@ -655,6 +757,7 @@
 端 verb N
 的 RelM I
 ， punctuation I
+
 自 pronoun I
 有 verb I
 欲 noun I
@@ -663,11 +766,13 @@
 之 RelM I
 意 noun I
 ， punctuation I
+
 其 verb I
 於 preposition I
 物 noun I
 欲 noun N
 ， punctuation I
+
 自 pronoun I
 無 adverb I
 暇 adverb N
@@ -675,6 +780,7 @@
 之 pronoun I
 矣 particle I
 。 punctuation I
+
 操 noun I
 舍 noun N
 存 noun I
@@ -686,13 +792,16 @@
 主 set_phrase N
 宰 set_phrase N
 ， punctuation I
+
 縱 adverb I
 說 verb I
 得 verb N
 ， punctuation I
+
 何 question_word I
 益 noun I
 銖 noun I
+
 學 noun I
 者 noun N
 須 verb I
@@ -701,6 +810,7 @@
 放 noun I
 心 noun N
 ， punctuation I
+
 然 adverb I
 後 adverb N
 識 verb I
@@ -710,11 +820,13 @@
 之 pronoun I
 善 verb I
 。 punctuation I
+
 人 noun I
 性 noun N
 不 particle I
 善 verb I
 ， punctuation I
+
 只 classifier I
 緣 noun I
 自 pronoun I
@@ -722,33 +834,40 @@
 其 verb I
 心 noun I
 ， punctuation I
+
 遂 verb I
 流 verb N
 於 preposition I
 惡 noun I
 。 punctuation I
+
 天 noun I
 命 noun N
 之 pronoun I
 謂 verb I
 性 noun I
 ” punctuation I
+
 ， punctuation I
+
 天 noun I
 命 noun N
 在 verb I
 人 noun I
 ， punctuation I
+
 便 verb I
 不 particle I
 善 noun I
 處 noun N
 。 punctuation I
+
 發 verb I
 而 conjunction I
 中 noun I
 節 noun N
 ， punctuation I
+
 亦 adverb I
 是 verb I
 善 verb I
@@ -756,19 +875,23 @@
 中 noun I
 節 noun N
 ， punctuation I
+
 便 verb I
 是 verb I
 惡 noun I
 。 punctuation I
+
 人 noun I
 之 pronoun I
 一 number I
 性 noun I
 ， punctuation I
+
 然 verb I
 具 noun I
 足 noun N
 ， punctuation I
+
 二 set_phrase I
 氣 set_phrase N
 五 set_phrase N
@@ -778,18 +901,21 @@
 稟 noun I
 賦 noun N
 ， punctuation I
+
 何 question_word I
 嘗 question_word N
 有 verb I
 不 particle I
 善 verb I
 。 punctuation I
+
 人 noun I
 自 pronoun I
 善 verb I
 上 complement I
 去 complement N
 ， punctuation I
+
 茲 pronoun I
 其 verb I
 所 classifier I
@@ -798,6 +924,7 @@
 惡 noun I
 爾 particle I
 。 punctuation I
+
 韓 noun I
 愈 noun N
 論 verb I
@@ -810,6 +937,7 @@
 其 verb I
 傳 noun I
 ， punctuation I
+
 只 classifier I
 爲 preposition I
 後 noun I
@@ -823,11 +951,13 @@
 理 verb I
 會 verb N
 。 punctuation I
+
 堯 noun I
 舜 noun I
 相 noun I
 傳 noun N
 ， punctuation I
+
 不 conjunction I
 過 conjunction N
 論 verb I
@@ -836,6 +966,7 @@
 道 noun I
 心 noun N
 ， punctuation I
+
 精 set_phrase I
 一 set_phrase N
 執 set_phrase N
@@ -843,6 +974,7 @@
 而 conjunction I
 已 verb I
 。 punctuation I
+
 天 noun I
 下 noun N
 只 conjunction I
@@ -852,6 +984,7 @@
 兩 number I
 端 verb I
 。 punctuation I
+
 如 preposition I
 陰 noun I
 陽 noun N
@@ -860,16 +993,19 @@
 地 noun N
 間 noun I
 ， punctuation I
+
 風 set_phrase I
 和 set_phrase N
 日 set_phrase N
 暖 set_phrase N
 ， punctuation I
+
 萬 set_phrase I
 物 set_phrase N
 發 set_phrase N
 生 set_phrase N
 ， punctuation I
+
 此 pronoun I
 是 verb I
 善 verb I
@@ -882,12 +1018,14 @@
 用 set_phrase N
 事 set_phrase N
 ， punctuation I
+
 則 conjunction I
 萬 set_phrase I
 物 set_phrase N
 彫 set_phrase N
 悴 set_phrase N
 。 punctuation I
+
 惡 noun I
 之 pronoun I
 在 verb I
@@ -895,6 +1033,7 @@
 亦 adverb I
 然 verb I
 。 punctuation I
+
 天 noun I
 地 noun N
 之 RelM I
@@ -906,11 +1045,13 @@
 陰 noun I
 氣 noun N
 ， punctuation I
+
 勿 particle I
 使 verb I
 常 verb I
 勝 verb N
 。 punctuation I
+
 學 noun I
 者 noun N
 之 pronoun I
@@ -918,6 +1059,7 @@
 善 noun I
 惡 noun N
 ， punctuation I
+
 亦 adverb I
 要 verb I
 兩 number I
@@ -929,6 +1071,7 @@
 分 verb I
 曉 verb N
 ， punctuation I
+
 勿 particle I
 使 verb I
 纖 noun I
@@ -938,33 +1081,41 @@
 善 verb I
 端 verb I
 。 punctuation I
+
 動 noun I
 靜 noun N
 日 noun I
 用 noun N
 ， punctuation I
+
 時 expression I
 加 verb I
 體 verb I
 察 verb N
 ， punctuation I
+
 持 verb I
 養 verb N
 久 verb I
 之 RelM I
 ， punctuation I
+
 自 noun I
 然 noun N
 成 verb I
 熟 verb N
 。 punctuation I
+
 謨 noun I
+
 問 verb I
 存 noun I
 心 noun N
 。 punctuation I
+
 曰 verb I
 ： punctuation I
+
 存 noun I
 心 noun N
 不 particle I
@@ -974,6 +1125,7 @@
 寫 verb I
 底 noun I
 ， punctuation I
+
 且 conjunction I
 體 verb I
 認 verb N
@@ -984,6 +1136,7 @@
 何 question_word I
 物 noun I
 。 punctuation I
+
 聖 noun I
 賢 noun N
 說 verb I
@@ -992,6 +1145,7 @@
 分 verb I
 曉 verb N
 。 punctuation I
+
 孟 noun I
 子 noun N
 恐 verb I
@@ -1000,11 +1154,13 @@
 不 particle I
 識 verb I
 ， punctuation I
+
 又 adverb I
 說 verb I
 四 number I
 端 verb I
 ， punctuation I
+
 此 pronoun I
 尤 adverb I
 好 adverb N
@@ -1012,8 +1168,10 @@
 索 verb N
 。 punctuation I
 ” punctuation I
+
 季 noun I
 札 noun N
+
 但 conjunction I
 操 verb I
 存 verb N
@@ -1021,6 +1179,7 @@
 在 verb I
 時 expression I
 ， punctuation I
+
 少 verb I
 間 noun I
 他 pronoun I
@@ -1029,6 +1188,7 @@
 哀 set_phrase N
 樂 set_phrase N
 ， punctuation I
+
 自 pronoun I
 有 verb I
 一 number I
@@ -1036,8 +1196,10 @@
 則 conjunction I
 在 verb I
 。 punctuation I
+
 祖 noun I
 道 noun N
+
 明 noun I
 底 noun N
 人 noun N
@@ -1045,14 +1207,17 @@
 明 verb I
 了 verb N
 ， punctuation I
+
 其 pronoun I
 他 pronoun N
 須 verb I
 是 verb I
 養 noun I
 。 punctuation I
+
 養 noun I
 ， punctuation I
+
 非 particle I
 是 verb I
 如 question_word I
@@ -1062,39 +1227,48 @@
 用 verb I
 工 verb N
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 心 noun I
 虛 verb I
 靜 verb N
 ， punctuation I
+
 久 adverb I
 則 adverb N
 自 verb I
 明 verb N
 。 punctuation I
+
 士 noun I
 毅 noun N
+
 人 noun I
 之 pronoun I
 一 number I
 心 noun I
 ， punctuation I
+
 當 adverb I
 應 verb I
 事 verb N
 時 expression I
 ， punctuation I
+
 如 preposition I
 無 noun I
 事 noun N
 時 expression I
 ， punctuation I
+
 便 verb I
 好 verb I
 。 punctuation I
+
 人 noun I
 傑 noun N
+
 平 noun I
 居 noun N
 須 verb I
@@ -1104,8 +1278,10 @@
 若 set_phrase N
 思 set_phrase N
 。 punctuation I
+
 升 noun I
 卿 noun N
+
 大 set_phrase I
 凡 set_phrase N
 氣 set_phrase N
@@ -1114,6 +1290,7 @@
 必 particle N
 問 verb I
 ， punctuation I
+
 心 noun I
 平 verb I
 則 conjunction I
@@ -1121,21 +1298,25 @@
 自 pronoun I
 和 conjunction I
 。 punctuation I
+
 心 noun I
 粗 noun N
 一 number I
 事 noun I
 ， punctuation I
+
 學 noun I
 者 noun N
 之 RelM I
 通 noun I
 病 noun N
 。 punctuation I
+
 橫 noun I
 渠 noun N
 云 verb I
 ： punctuation I
+
 顔 noun I
 子 noun N
 未 particle I
@@ -1143,21 +1324,26 @@
 聖 noun I
 人 noun N
 ， punctuation I
+
 猶 adverb I
 是 verb I
 心 noun I
 粗 noun N
 。 punctuation I
 ” punctuation I
+
+
 一 set_phrase I
 息 set_phrase N
 不 set_phrase N
 存 set_phrase N
 ， punctuation I
+
 爲 preposition I
 粗 noun I
 病 noun N
 。 punctuation I
+
 要 verb I
 在 verb I
 精 set_phrase I
@@ -1165,6 +1351,7 @@
 明 set_phrase N
 辨 set_phrase N
 ， punctuation I
+
 使 verb I
 理 set_phrase I
 明 set_phrase N
@@ -1180,6 +1367,7 @@
 臾 verb I
 離 verb N
 ， punctuation I
+
 無 particle I
 毫 noun I
 髮 noun N
@@ -1190,16 +1378,19 @@
 常 verb I
 存 verb N
 ， punctuation I
+
 人 noun I
 欲 noun I
 消 verb I
 去 verb N
 ， punctuation I
+
 其 verb I
 庶 conjunction I
 幾 conjunction N
 大 noun I
 雅 noun N
+
 人 noun I
 能 verb I
 操 verb I
@@ -1207,17 +1398,20 @@
 此 noun I
 心 noun N
 ， punctuation I
+
 卓 verb I
 然 verb N
 而 conjunction I
 不 particle I
 亂 verb I
 ， punctuation I
+
 自 pronoun I
 可 conjunction I
 入 verb I
 道 verb N
 。 punctuation I
+
 況 conjunction I
 加 verb I
 之 RelM I
@@ -1228,16 +1422,19 @@
 之 RelM I
 功 noun I
 ， punctuation I
+
 豈 adverb I
 易 verb I
 量 verb N
 蓋 noun I
 卿 noun N
+
 人 noun I
 心 noun N
 本 noun I
 明 verb I
 ， punctuation I
+
 只 classifier I
 物 noun I
 事 noun N
@@ -1247,6 +1444,7 @@
 蔽 verb N
 了 verb I
 ， punctuation I
+
 不 adverb I
 曾 adverb N
 得 verb I
@@ -1254,11 +1452,13 @@
 頭 noun I
 面 noun N
 ， punctuation I
+
 故 noun I
 燭 noun I
 理 noun I
 難 verb I
 。 punctuation I
+
 且 conjunction I
 徹 verb I
 了 verb I
@@ -1267,6 +1467,7 @@
 底 noun I
 事 noun I
 ， punctuation I
+
 待 verb I
 他 pronoun I
 自 pronoun I
@@ -1277,12 +1478,14 @@
 匝 classifier I
 看 verb I
 。 punctuation I
+
 他 pronoun I
 既 adverb I
 喚 verb I
 做 verb N
 心 noun I
 ， punctuation I
+
 自 noun I
 然 noun N
 知 verb I
@@ -1292,8 +1495,10 @@
 善 noun I
 惡 noun N
 。 punctuation I
+
 伯 noun I
 羽 noun N
+
 心 noun I
 須 verb I
 令 set_phrase I
@@ -1301,18 +1506,21 @@
 所 set_phrase N
 主 set_phrase N
 。 punctuation I
+
 做 verb I
 一 number I
 事 noun I
 未 particle I
 了 verb I
 ， punctuation I
+
 不 particle I
 要 verb I
 做 verb I
 別 verb I
 事 noun I
 。 punctuation I
+
 心 noun I
 廣 verb I
 大 verb N
@@ -1320,19 +1528,23 @@
 天 noun I
 地 noun N
 ， punctuation I
+
 虛 verb I
 明 verb N
 如 preposition I
 日 noun I
 月 noun N
 。 punctuation I
+
 要 verb I
 閑 verb I
 ， punctuation I
+
 心 noun I
 不 particle I
 閑 verb I
 ， punctuation I
+
 隨 verb I
 物 noun I
 走 verb I
@@ -1341,14 +1553,17 @@
 要 verb I
 閑 verb I
 ， punctuation I
+
 心 noun I
 却 adverb I
 閑 verb I
 ， punctuation I
+
 有 verb I
 所 classifier I
 主 noun I
 。 punctuation I
+
 人 noun I
 須 verb I
 將 verb I
@@ -1365,6 +1580,7 @@
 底 noun I
 心 noun I
 。 punctuation I
+
 不 particle I
 錯 verb I
 底 noun I
@@ -1372,6 +1588,7 @@
 本 noun I
 心 noun N
 ， punctuation I
+
 錯 verb I
 底 noun I
 是 verb I
@@ -1380,12 +1597,15 @@
 本 noun I
 心 noun N
 。 punctuation I
+
 廣 noun I
+
 心 noun I
 得 verb I
 其 verb I
 正 verb I
 ， punctuation I
+
 方 verb I
 能 verb N
 知 verb I
@@ -1393,13 +1613,16 @@
 之 pronoun I
 善 verb I
 。 punctuation I
+
 祖 noun I
 道 noun N
+
 學 noun I
 者 noun N
 工 noun I
 夫 noun N
 ， punctuation I
+
 且 conjunction I
 去 verb I
 翦 verb I
@@ -1411,8 +1634,10 @@
 思 noun I
 慮 noun N
 。 punctuation I
+
 文 noun I
 蔚 noun N
+
 凡 adverb I
 學 verb I
 須 verb I
@@ -1424,12 +1649,14 @@
 箇 classifier I
 心 noun I
 ， punctuation I
+
 然 adverb I
 後 adverb N
 方 verb I
 可 verb N
 學 verb I
 。 punctuation I
+
 譬 adverb I
 如 adverb N
 燒 verb I
@@ -1437,6 +1664,7 @@
 相 verb I
 似 verb N
 ， punctuation I
+
 必 verb I
 先 adverb I
 吹 verb I
@@ -1444,16 +1672,19 @@
 了 verb I
 火 noun I
 ， punctuation I
+
 然 adverb I
 後 adverb N
 加 verb I
 薪 verb N
 ， punctuation I
+
 則 conjunction I
 火 noun I
 明 verb I
 矣 particle I
 。 punctuation I
+
 若 conjunction I
 先 adverb I
 加 verb I
@@ -1463,11 +1694,13 @@
 吹 verb I
 火 verb N
 ， punctuation I
+
 則 conjunction I
 火 noun I
 滅 verb I
 矣 particle I
 。 punctuation I
+
 如 expression I
 今 expression N
 時 noun I
@@ -1484,8 +1717,10 @@
 是 verb I
 也 particle I
 。 punctuation I
+
 壽 noun I
 昌 noun N
+
 把 verb I
 定 verb N
 生 set_phrase I
@@ -1494,11 +1729,13 @@
 頭 set_phrase N
 方 noun I
 子 noun N
+
 聖 noun I
 賢 noun N
 言 noun I
 語 noun N
 ， punctuation I
+
 大 verb I
 約 verb I
 似 adverb I
@@ -1506,12 +1743,14 @@
 不 verb I
 同 verb N
 ， punctuation I
+
 然 verb I
 未 set_phrase I
 始 set_phrase N
 不 set_phrase N
 貫 set_phrase N
 。 punctuation I
+
 只 classifier I
 如 preposition I
 夫 noun I
@@ -1525,12 +1764,14 @@
 言 noun I
 動 noun N
 ， punctuation I
+
 出 verb I
 門 verb N
 見 verb I
 大 noun I
 賓 noun N
 ， punctuation I
+
 使 set_phrase I
 民 set_phrase N
 如 set_phrase N
@@ -1538,16 +1779,21 @@
 大 set_phrase N
 祭 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 言 set_phrase I
 忠 set_phrase N
 信 set_phrase N
 ， punctuation I
+
 行 set_phrase I
 篤 set_phrase N
 敬 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 這 pronoun I
 是 verb I
 一 number I
@@ -1556,6 +1802,7 @@
 說 verb I
 話 verb N
 。 punctuation I
+
 到 verb I
 孟 noun I
 子 noun N
@@ -1565,13 +1812,17 @@
 放 noun I
 心 noun N
 ” punctuation I
+
 ， punctuation I
+
 存 set_phrase I
 心 set_phrase N
 養 set_phrase N
 性 set_phrase N
 ” punctuation I
+
 。 punctuation I
+
 大 noun I
 學 noun N
 則 conjunction I
@@ -1582,15 +1833,19 @@
 格 noun I
 物 noun N
 ， punctuation I
+
 致 noun I
 知 noun N
 ， punctuation I
+
 正 noun I
 心 noun N
 ， punctuation I
+
 誠 noun I
 意 noun N
 。 punctuation I
+
 至 verb I
 程 noun I
 先 noun I
@@ -1604,32 +1859,39 @@
 箇 classifier I
 敬 noun I
 ” punctuation I
+
 字 noun I
 。 punctuation I
+
 若 conjunction I
 只 classifier I
 恁 adverb I
 看 verb I
 ， punctuation I
+
 參 set_phrase I
 錯 set_phrase N
 不 set_phrase N
 齊 set_phrase N
 ， punctuation I
+
 千 set_phrase I
 頭 set_phrase N
 萬 set_phrase N
 緒 set_phrase N
 ， punctuation I
+
 其 verb I
 只 classifier I
 一 number I
 理 noun I
 。 punctuation I
+
 道 noun I
 夫 noun N
 曰 verb I
 ： punctuation I
+
 泛 verb I
 泛 verb N
 於 preposition I
@@ -1637,15 +1899,18 @@
 字 noun N
 間 noun I
 ， punctuation I
+
 祇 adverb I
 覺 verb I
 得 verb N
 異 verb I
 。 punctuation I
+
 實 adverb I
 下 verb I
 工 verb N
 ， punctuation I
+
 則 conjunction I
 貫 verb I
 通 verb N
@@ -1655,10 +1920,14 @@
 見 verb N
 。 punctuation I
 ” punctuation I
+
+
 曰 verb I
 ： punctuation I
+
 然 verb I
 。 punctuation I
+
 只 conjunction I
 是 conjunction N
 一 adverb I
@@ -1666,6 +1935,7 @@
 下 verb I
 工 verb N
 ， punctuation I
+
 則 conjunction I
 餘 noun I
 者 noun N
@@ -1675,21 +1945,25 @@
 在 preposition I
 裏 preposition N
 。 punctuation I
+
 聖 noun I
 賢 noun N
 之 RelM I
 道 noun I
 ， punctuation I
+
 一 number I
 室 noun I
 然 verb I
 ， punctuation I
+
 雖 conjunction I
 門 noun I
 戶 noun N
 不 verb I
 同 verb N
 ， punctuation I
+
 自 pronoun I
 一 adverb I
 處 adverb N
@@ -1699,6 +1973,7 @@
 入 verb I
 得 verb N
 ， punctuation I
+
 但 conjunction I
 恐 verb I
 不 particle I
@@ -1707,18 +1982,23 @@
 爾 particle I
 。 punctuation I
 ” punctuation I
+
 道 noun I
 夫 noun N
+
 今 expression I
 說 verb I
 此 pronoun I
 話 noun I
 ， punctuation I
+
 險 verb I
 ， punctuation I
+
 難 verb I
 說 verb N
 。 punctuation I
+
 故 noun I
 周 noun I
 先 noun I
@@ -1728,23 +2008,28 @@
 一 number I
 者 pronoun I
 ， punctuation I
+
 無 particle I
 欲 noun I
 也 particle I
 ” punctuation I
+
 。 punctuation I
+
 然 verb I
 這 pronoun I
 話 noun I
 頭 noun I
 高 noun I
 ， punctuation I
+
 卒 noun I
 急 verb I
 難 verb I
 湊 verb I
 泊 verb N
 。 punctuation I
+
 尋 verb I
 常 noun I
 人 noun N
@@ -1754,6 +2039,7 @@
 得 verb I
 無 particle I
 欲 noun I
+
 筆 noun I
 伊 noun I
 川 noun N
@@ -1762,19 +2048,23 @@
 箇 classifier I
 敬 noun I
 ” punctuation I
+
 字 noun I
 ， punctuation I
+
 教 verb I
 人 noun I
 只 classifier I
 這 pronoun I
 敬 noun I
 ” punctuation I
+
 字 noun I
 上 verb I
 捱 verb I
 去 verb N
 ， punctuation I
+
 庶 conjunction I
 幾 conjunction N
 執 verb I
@@ -1782,22 +2072,27 @@
 得 verb N
 定 verb N
 ， punctuation I
+
 有 verb I
 箇 classifier I
 下 verb I
 手 verb N
 處 noun I
 。 punctuation I
+
 不 particle I
 得 verb I
 ， punctuation I
+
 不 particle I
 至 verb I
 失 verb N
 。 punctuation I
+
 要 verb I
 之 RelM I
 ， punctuation I
+
 只 conjunction I
 要 conjunction N
 人 noun I
@@ -1810,12 +2105,14 @@
 分 verb I
 明 verb N
 ， punctuation I
+
 自 noun I
 然 noun N
 有 verb I
 得 verb I
 爾 particle I
 。 punctuation I
+
 然 verb I
 今 expression I
 之 RelM I
@@ -1823,6 +2120,7 @@
 敬 noun N
 者 pronoun I
 ， punctuation I
+
 乃 verb I
 皆 adverb I
 裝 verb I
@@ -1830,6 +2128,7 @@
 外 noun I
 事 noun N
 ， punctuation I
+
 不 particle I
 知 verb I
 截 classifier I
@@ -1839,6 +2138,7 @@
 求 verb I
 功 verb N
 ， punctuation I
+
 遂 adverb I
 覺 verb I
 累 verb I
@@ -1847,6 +2147,7 @@
 快 verb I
 活 verb N
 。 punctuation I
+
 若 conjunction I
 眼 noun I
 下 noun N
@@ -1857,29 +2158,34 @@
 有 verb I
 功 noun I
 ， punctuation I
+
 則 conjunction I
 尤 adverb I
 省 verb I
 力 verb N
 也 particle I
 。 punctuation I
+
 但 conjunction I
 此 pronoun I
 事 noun I
 甚 question_word I
 易 verb I
 ， punctuation I
+
 只 classifier I
 如 conjunction I
 此 conjunction N
 提 verb I
 醒 verb N
 ， punctuation I
+
 莫 set_phrase I
 令 set_phrase N
 昏 set_phrase N
 昧 set_phrase N
 ， punctuation I
+
 一 number I
 二 number I
 日 noun I
@@ -1888,12 +2194,14 @@
 見 verb I
 效 verb N
 ， punctuation I
+
 且 conjunction I
 易 verb I
 而 conjunction I
 省 verb I
 力 verb N
 。 punctuation I
+
 只 classifier I
 在 verb I
 念 verb I
@@ -1903,20 +2211,24 @@
 間 expression N
 耳 noun I
 ， punctuation I
+
 何 question_word I
 難 verb I
 而 conjunction I
 大 noun I
 雅 noun N
+
 人 noun I
 之 pronoun I
 學 verb I
 ， punctuation I
+
 千 set_phrase I
 頭 set_phrase N
 萬 set_phrase N
 緒 set_phrase N
 ， punctuation I
+
 可 conjunction I
 無 particle I
 本 noun I
@@ -1931,9 +2243,11 @@
 持 verb I
 敬 verb N
 ” punctuation I
+
 之 RelM I
 語 noun I
 。 punctuation I
+
 只 conjunction I
 是 conjunction N
 提 verb I
@@ -1941,17 +2255,20 @@
 此 noun I
 心 noun N
 ， punctuation I
+
 教 verb I
 他 pronoun I
 光 noun I
 明 noun N
 ， punctuation I
+
 則 conjunction I
 於 preposition I
 事 noun I
 不 particle I
 見 verb I
 ， punctuation I
+
 久 verb I
 之 RelM I
 自 noun I
@@ -1961,7 +2278,9 @@
 有 set_phrase N
 力 set_phrase N
 。 punctuation I
+
 驤 noun I
+
 程 noun I
 先 noun I
 生 noun N
@@ -1974,44 +2293,52 @@
 學 noun N
 者 noun N
 ， punctuation I
+
 最 adverb I
 是 verb I
 敬 noun I
 ” punctuation I
+
 之 pronoun I
 一 number I
 字 noun I
 有 verb I
 力 verb N
 。 punctuation I
+
 人 noun I
 之 RelM I
 心 noun I
 性 noun N
 ， punctuation I
+
 敬 noun I
 則 conjunction I
 常 verb I
 存 verb N
 ， punctuation I
+
 不 particle I
 敬 noun I
 則 conjunction I
 不 particle I
 存 verb I
 。 punctuation I
+
 如 preposition I
 釋 noun I
 老 noun N
 等 verb I
 人 noun I
 ， punctuation I
+
 却 adverb I
 是 adverb N
 能 verb I
 持 verb I
 敬 verb N
 。 punctuation I
+
 但 conjunction I
 是 conjunction N
 他 pronoun I
@@ -2025,12 +2352,14 @@
 截 classifier I
 事 noun I
 ， punctuation I
+
 下 expression I
 面 expression N
 一 number I
 截 classifier I
 事 noun I
 。 punctuation I
+
 覺 verb I
 而 expression I
 今 expression N
@@ -2040,6 +2369,7 @@
 工 verb N
 夫 verb N
 ， punctuation I
+
 卻 adverb I
 是 verb I
 有 verb I
@@ -2048,6 +2378,7 @@
 一 number I
 截 classifier I
 ， punctuation I
+
 又 adverb I
 怕 verb I
 那 question_word I
@@ -2056,12 +2387,14 @@
 一 number I
 截 classifier I
 。 punctuation I
+
 那 question_word I
 上 expression I
 面 expression N
 一 number I
 截 classifier I
 ， punctuation I
+
 却 adverb I
 是 verb I
 箇 classifier I
@@ -2069,13 +2402,17 @@
 本 noun N
 底 noun I
 。 punctuation I
+
 卓 noun I
+
 敬 noun I
 ” punctuation I
+
 字 noun I
 工 noun I
 夫 noun N
 ， punctuation I
+
 乃 verb I
 聖 noun I
 門 noun N
@@ -2083,44 +2420,55 @@
 一 number I
 義 noun I
 ， punctuation I
+
 徹 set_phrase I
 頭 set_phrase N
 徹 set_phrase N
 尾 set_phrase N
 ， punctuation I
+
 可 conjunction I
 頃 adverb I
 刻 adverb N
 間 verb I
 斷 verb N
 。 punctuation I
+
 先 adverb I
 立 verb I
 其 verb I
 大 verb I
 者 pronoun I
 。 punctuation I
+
 持 verb I
 敬 verb N
 。 punctuation I
+
 方 noun I
+
 敬 noun I
 則 conjunction I
 萬 noun I
 理 noun N
 在 verb I
 。 punctuation I
+
 節 noun I
+
 只 classifier I
 敬 noun I
 ， punctuation I
+
 則 conjunction I
 心 noun I
 便 verb I
 一 number I
 。 punctuation I
+
 賀 noun I
 孫 noun N
+
 敬 noun I
 則 conjunction I
 天 set_phrase I
@@ -2128,6 +2476,7 @@
 常 set_phrase N
 明 set_phrase N
 ， punctuation I
+
 自 noun I
 然 noun N
 人 noun I
@@ -2137,7 +2486,9 @@
 消 set_phrase N
 治 set_phrase N
 。 punctuation I
+
 方 noun I
+
 敬 noun I
 是 verb I
 箇 classifier I
@@ -2148,6 +2499,7 @@
 物 noun I
 事 noun N
 。 punctuation I
+
 人 noun I
 放 set_phrase I
 肆 set_phrase N
@@ -2155,8 +2507,10 @@
 惰 set_phrase N
 時 expression I
 ， punctuation I
+
 敬 noun I
 ， punctuation I
+
 便 verb I
 扶 verb I
 策 verb N
@@ -2165,9 +2519,11 @@
 心 noun N
 起 verb I
 。 punctuation I
+
 會 noun I
 地 noun I
 ， punctuation I
+
 雖 conjunction I
 有 pronoun I
 些 pronoun N
@@ -2178,22 +2534,28 @@
 意 noun I
 思 noun N
 ， punctuation I
+
 也 adverb I
 退 verb I
 聽 verb N
 。 punctuation I
+
 賀 noun I
 孫 noun N
+
 問 verb I
 敬 noun I
 。 punctuation I
+
 曰 verb I
 ： punctuation I
+
 一 number I
 念 verb I
 不 particle I
 存 verb I
 ， punctuation I
+
 也 adverb I
 是 verb I
 間 verb I
@@ -2203,14 +2565,17 @@
 有 verb I
 差 verb I
 ， punctuation I
+
 也 adverb I
 是 verb I
 間 verb I
 斷 verb N
 。 punctuation I
 ” punctuation I
+
 問 verb I
 ： punctuation I
+
 敬 noun I
 何 question_word I
 以 question_word N
@@ -2218,8 +2583,10 @@
 工 verb N
 ？ punctuation I
 ” punctuation I
+
 曰 verb I
 ： punctuation I
+
 只 conjunction I
 是 conjunction N
 內 set_phrase I
@@ -2227,23 +2594,28 @@
 妄 set_phrase N
 思 set_phrase N
 ， punctuation I
+
 外 set_phrase I
 無 set_phrase N
 妄 set_phrase N
 動 set_phrase N
 。 punctuation I
 ” punctuation I
+
 柄 noun I
+
 持 verb I
 敬 verb N
 之 pronoun I
 說 verb I
 ， punctuation I
+
 不 set_phrase I
 必 set_phrase N
 多 set_phrase N
 言 set_phrase N
 。 punctuation I
+
 但 conjunction I
 熟 noun I
 味 noun N
@@ -2252,52 +2624,65 @@
 嚴 set_phrase N
 肅 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 嚴 set_phrase I
 威 set_phrase N
 儼 set_phrase N
 恪 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 動 noun I
 容 noun I
 貌 noun N
 ， punctuation I
+
 整 verb I
 思 noun I
 慮 noun N
 ” punctuation I
+
 ， punctuation I
+
 正 verb I
 衣 noun I
 冠 noun N
 ， punctuation I
+
 尊 noun I
 瞻 noun I
 視 noun N
 ” punctuation I
+
 此 pronoun I
 等 verb I
 數 noun I
 語 noun N
 ， punctuation I
+
 而 conjunction I
 實 adverb I
 加 verb I
 工 verb N
 焉 particle I
 ， punctuation I
+
 則 conjunction I
 所 classifier I
 謂 verb I
 直 noun I
 內 noun N
 ， punctuation I
+
 所 classifier I
 謂 verb I
 主 noun I
 一 noun N
 ， punctuation I
+
 自 noun I
 然 noun N
 不 particle I
@@ -2305,73 +2690,91 @@
 安 noun I
 排 noun N
 ， punctuation I
+
 而 conjunction I
 身 set_phrase I
 心 set_phrase N
 肅 set_phrase N
 然 set_phrase N
 ， punctuation I
+
 表 set_phrase I
 裏 set_phrase N
 如 set_phrase N
 一 set_phrase N
 矣 particle I
 。 punctuation I
+
 升 noun I
 卿 noun N
+
 坐 set_phrase I
 如 set_phrase N
 尸 set_phrase N
 ， punctuation I
+
 立 set_phrase I
 如 set_phrase N
 齊 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 頭 set_phrase I
 容 set_phrase N
 直 set_phrase N
 ， punctuation I
+
 目 set_phrase I
 容 set_phrase N
 端 set_phrase N
 ， punctuation I
+
 足 set_phrase I
 容 set_phrase N
 重 set_phrase N
 ， punctuation I
+
 手 set_phrase I
 容 set_phrase N
 恭 set_phrase N
 ， punctuation I
+
 口 set_phrase I
 容 set_phrase N
 止 set_phrase N
 ， punctuation I
+
 氣 set_phrase I
 容 set_phrase N
 肅 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 敬 noun I
 之 RelM I
 目 noun I
 也 particle I
 。 punctuation I
+
 升 noun I
 卿 noun N
+
 今 expression I
 所 adverb I
 謂 adverb N
 持 verb I
 敬 verb N
 ， punctuation I
+
 不 particle I
 是 verb I
 將 verb I
 箇 classifier I
 敬 noun I
 ” punctuation I
+
 字 noun I
 做 verb I
 箇 classifier I
@@ -2384,6 +2787,7 @@
 懷 verb I
 裏 expression I
 。 punctuation I
+
 只 conjunction I
 要 conjunction N
 胸 noun I
@@ -2393,13 +2797,16 @@
 此 pronoun I
 意 noun I
 ， punctuation I
+
 而 conjunction I
 無 particle I
 其 verb I
 名 noun I
 耳 noun I
 。 punctuation I
+
 振 noun I
+
 動 noun I
 出 noun N
 時 expression I
@@ -2408,6 +2815,7 @@
 整 verb I
 齊 verb N
 ， punctuation I
+
 平 expression I
 時 expression N
 也 adverb I
@@ -2416,9 +2824,11 @@
 齊 verb N
 。 punctuation I
 ” punctuation I
+
 方 noun I
 問 verb I
 ： punctuation I
+
 乃 verb I
 是 verb I
 敬 set_phrase I
@@ -2427,13 +2837,16 @@
 靜 set_phrase N
 ？ punctuation I
 ” punctuation I
+
 曰 verb I
 ： punctuation I
+
 到 verb I
 頭 noun I
 底 noun I
 人 noun I
 ， punctuation I
+
 言 noun I
 語 noun N
 不 particle I
@@ -2443,7 +2856,9 @@
 者 pronoun I
 。 punctuation I
 ” punctuation I
+
 方 noun I
+
 大 adverb I
 率 adverb N
 把 verb I
@@ -2451,11 +2866,13 @@
 不 verb N
 定 verb N
 ， punctuation I
+
 皆 adverb I
 是 verb I
 不 particle I
 仁 noun I
 。 punctuation I
+
 人 noun I
 心 noun N
 湛 set_phrase I
@@ -2464,22 +2881,26 @@
 定 set_phrase N
 者 pronoun I
 ， punctuation I
+
 仁 noun I
 之 RelM I
 本 noun I
 體 noun N
 。 punctuation I
+
 把 verb I
 捉 verb N
 不 verb N
 定 verb N
 者 pronoun I
 ， punctuation I
+
 私 set_phrase I
 欲 set_phrase N
 奪 set_phrase N
 之 set_phrase N
 ， punctuation I
+
 而 conjunction I
 動 set_phrase I
 搖 set_phrase N
@@ -2487,6 +2908,7 @@
 擾 set_phrase N
 矣 particle I
 。 punctuation I
+
 然 verb I
 則 conjunction I
 把 verb I
@@ -2494,16 +2916,20 @@
 得 verb N
 定 verb N
 ， punctuation I
+
 其 verb I
 持 verb I
 敬 verb N
 ” punctuation I
+
 直 noun I
 卿 noun N
 端 noun I
 蒙 noun N
+
 問 verb I
 ： punctuation I
+
 人 noun I
 如 question_word I
 何 question_word N
@@ -2512,21 +2938,26 @@
 誠 noun I
 敬 noun N
 ， punctuation I
+
 消 verb I
 其 verb I
 欲 noun I
 ？ punctuation I
 ” punctuation I
+
 曰 verb I
 ： punctuation I
+
 此 pronoun I
 是 verb I
 極 noun I
 處 noun N
 了 verb I
 。 punctuation I
+
 誠 noun I
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 去 verb I
@@ -2536,6 +2967,7 @@
 僞 noun I
 敬 noun I
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 去 verb I
@@ -2546,14 +2978,17 @@
 慢 noun N
 欲 noun I
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 要 verb I
 窒 noun I
 。 punctuation I
 ” punctuation I
+
 去 noun I
 僞 noun N
+
 敬 noun I
 治 verb I
 田 verb N
@@ -2565,6 +3000,7 @@
 克 noun I
 己 noun N
 ， punctuation I
+
 則 conjunction I
 是 verb I
 去 verb I
@@ -2573,8 +3009,10 @@
 草 noun N
 也 particle I
 。 punctuation I
+
 端 noun I
 蒙 noun N
+
 問 verb I
 持 verb I
 敬 verb N
@@ -2584,8 +3022,10 @@
 工 noun I
 夫 noun N
 。 punctuation I
+
 曰 verb I
 ： punctuation I
+
 敬 noun I
 是 verb I
 涵 noun I
@@ -2598,6 +3038,7 @@
 克 noun I
 己 noun N
 ， punctuation I
+
 則 conjunction I
 和 conjunction I
 根 noun I
@@ -2605,26 +3046,31 @@
 併 verb N
 了 verb I
 ， punctuation I
+
 教 verb I
 他 pronoun I
 盡 verb I
 淨 verb N
 。 punctuation I
 ” punctuation I
+
 又 adverb I
 問 verb I
 敬 noun I
 齋 noun N
 箴 noun I
 。 punctuation I
+
 曰 verb I
 ： punctuation I
+
 此 pronoun I
 是 verb I
 敬 noun I
 之 RelM I
 目 noun I
 ， punctuation I
+
 說 verb I
 有 verb I
 許 verb I
@@ -2635,27 +3081,34 @@
 處 noun N
 。 punctuation I
 ” punctuation I
+
 僩 noun I
+
 問 verb I
 ： punctuation I
+
 嘗 adverb I
 學 verb I
 持 verb I
 敬 verb N
 。 punctuation I
+
 讀 verb I
 書 verb N
 ， punctuation I
+
 心 noun I
 在 verb I
 書 noun I
 爲 verb I
 事 verb N
 ， punctuation I
+
 心 noun I
 在 verb I
 事 noun I
 ， punctuation I
+
 如 conjunction I
 此 conjunction N
 頗 set_phrase I
@@ -2663,6 +3116,7 @@
 有 set_phrase N
 力 set_phrase N
 。 punctuation I
+
 只 conjunction I
 是 conjunction N
 瞑 set_phrase I
@@ -2671,6 +3125,7 @@
 坐 set_phrase N
 時 expression I
 ， punctuation I
+
 支 verb I
 遣 verb N
 思 noun I
@@ -2678,9 +3133,11 @@
 不 particle I
 去 verb I
 。 punctuation I
+
 或 adverb I
 云 verb I
 ， punctuation I
+
 只 classifier I
 瞑 noun I
 目 noun N
@@ -2693,18 +3150,21 @@
 之 pronoun I
 端 verb I
 。 punctuation I
+
 讀 verb I
 書 verb N
 心 noun I
 在 verb I
 書 noun I
 ， punctuation I
+
 爲 verb I
 事 verb N
 心 noun I
 在 verb I
 事 noun I
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 收 verb I
@@ -2712,6 +3172,7 @@
 得 verb I
 心 noun I
 ， punctuation I
+
 未 particle I
 見 verb I
 敬 noun I
@@ -2719,8 +3180,11 @@
 體 noun I
 。 punctuation I
 ” punctuation I
+
+
 曰 verb I
 ： punctuation I
+
 靜 noun I
 坐 noun N
 而 conjunction I
@@ -2730,6 +3194,7 @@
 思 noun I
 慮 noun N
 ， punctuation I
+
 便 verb I
 是 verb I
 靜 noun I
@@ -2737,11 +3202,13 @@
 時 expression I
 敬 noun I
 。 punctuation I
+
 敬 noun I
 只 conjunction I
 是 conjunction N
 敬 noun I
 ， punctuation I
+
 更 verb I
 尋 verb I
 甚 question_word I
@@ -2749,15 +3216,18 @@
 之 RelM I
 體 noun I
 ？ punctuation I
+
 此 pronoun I
 支 verb I
 離 verb N
 ， punctuation I
+
 病 noun I
 痛 noun N
 愈 adverb I
 多 verb I
 ， punctuation I
+
 更 verb I
 不 adverb I
 曾 adverb N
@@ -2766,6 +3236,7 @@
 工 noun I
 夫 noun N
 ， punctuation I
+
 只 classifier I
 了 verb I
 得 verb N
@@ -2776,10 +3247,13 @@
 也 particle I
 。 punctuation I
 ” punctuation I
+
 人 noun I
 傑 noun N
+
 敬 noun I
 ， punctuation I
+
 把 classifier I
 做 verb I
 一 number I
@@ -2787,6 +3261,7 @@
 事 noun I
 看 verb I
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 收 verb I
@@ -2796,11 +3271,13 @@
 精 noun I
 神 noun N
 ， punctuation I
+
 專 set_phrase I
 一 set_phrase N
 在 set_phrase N
 此 set_phrase N
 。 punctuation I
+
 今 expression I
 看 verb I
 來 verb N
@@ -2811,6 +3288,7 @@
 不 particle I
 進 verb I
 ， punctuation I
+
 緣 noun I
 是 verb I
 但 conjunction I
@@ -2820,6 +3298,7 @@
 格 noun I
 物 noun N
 ， punctuation I
+
 於 preposition I
 自 noun I
 家 noun N
@@ -2830,6 +3309,7 @@
 欠 verb I
 闕 verb N
 ， punctuation I
+
 精 noun I
 神 noun N
 意 noun I
@@ -2839,6 +3319,7 @@
 專 verb I
 一 verb N
 ， punctuation I
+
 所 conjunction I
 以 conjunction N
 工 noun I
@@ -2848,6 +3329,7 @@
 精 verb I
 銳 verb N
 。 punctuation I
+
 未 particle I
 說 verb I
 道 verb N
@@ -2861,6 +3343,7 @@
 志 noun I
 慮 noun N
 ， punctuation I
+
 只 conjunction I
 是 conjunction N
 觀 set_phrase I
@@ -2868,6 +3351,7 @@
 玩 set_phrase N
 水 set_phrase N
 ， punctuation I
+
 也 adverb I
 煞 verb I
 引 verb N
@@ -2875,6 +3359,7 @@
 了 verb I
 心 noun I
 ， punctuation I
+
 那 question_word I
 得 verb I
 教 verb I
@@ -2883,6 +3368,7 @@
 裏 preposition N
 面 noun I
 好 verb I
+
 如 preposition I
 世 noun I
 上 noun N
@@ -2892,37 +3378,45 @@
 物 noun N
 事 noun N
 ， punctuation I
+
 一 noun I
 切 noun N
 都 adverb I
 絕 verb I
 意 verb N
 ， punctuation I
+
 雖 conjunction I
 不 particle I
 近 verb I
 人 noun I
 情 noun N
 ， punctuation I
+
 要 verb I
 之 RelM I
 ， punctuation I
+
 如 conjunction I
 此 conjunction N
 方 noun I
 好 verb I
 。 punctuation I
+
 賀 noun I
 孫 noun N
+
 敬 noun I
 有 verb I
 死 noun I
 敬 noun N
 ， punctuation I
+
 有 verb I
 活 noun I
 敬 noun N
 。 punctuation I
+
 若 conjunction I
 只 classifier I
 守 verb I
@@ -2932,6 +3426,7 @@
 之 RelM I
 敬 noun I
 ， punctuation I
+
 遇 set_phrase I
 事 set_phrase N
 不 set_phrase N
@@ -2940,29 +3435,35 @@
 以 preposition I
 義 noun I
 ， punctuation I
+
 辨 set_phrase I
 其 set_phrase N
 是 set_phrase N
 非 set_phrase N
 ， punctuation I
+
 則 conjunction I
 不 particle I
 活 verb I
 。 punctuation I
+
 若 conjunction I
 熟 verb I
 後 expression I
 ， punctuation I
+
 敬 noun I
 便 verb I
 有 verb I
 義 noun I
 ， punctuation I
+
 義 noun I
 便 verb I
 有 verb I
 敬 noun I
 。 punctuation I
+
 靜 noun I
 則 conjunction I
 察 verb I
@@ -2971,6 +3472,7 @@
 不 particle I
 敬 noun I
 ， punctuation I
+
 動 noun I
 則 conjunction I
 察 verb I
@@ -2979,12 +3481,14 @@
 不 particle I
 義 noun I
 。 punctuation I
+
 出 verb I
 門 verb N
 見 verb I
 大 noun I
 賓 noun N
 ， punctuation I
+
 使 set_phrase I
 民 set_phrase N
 如 set_phrase N
@@ -2992,53 +3496,65 @@
 大 set_phrase N
 祭 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 不 particle I
 敬 noun I
 時 expression I
 如 question_word I
 何 question_word N
 ？ punctuation I
+
 坐 set_phrase I
 如 set_phrase N
 尸 set_phrase N
 ， punctuation I
+
 立 set_phrase I
 如 set_phrase N
 齊 set_phrase N
 ” punctuation I
+
 ， punctuation I
+
 不 particle I
 敬 noun I
 時 expression I
 如 question_word I
 何 question_word N
 ？ punctuation I
+
 須 verb I
 敬 set_phrase I
 義 set_phrase N
 夾 set_phrase N
 持 set_phrase N
 ， punctuation I
+
 循 set_phrase I
 環 set_phrase N
 無 set_phrase N
 端 set_phrase N
 ， punctuation I
+
 則 conjunction I
 內 set_phrase I
 外 set_phrase N
 透 set_phrase N
 徹 set_phrase N
 。 punctuation I
+
 從 noun I
 周 noun N
+
 涵 noun I
 養 noun N
 須 verb I
 用 verb I
 敬 noun I
 ， punctuation I
+
 處 verb I
 事 verb N
 須 verb I
@@ -3046,8 +3562,10 @@
 集 noun I
 義 noun N
 。 punctuation I
+
 道 noun I
 夫 noun N
+
 敬 noun I
 義 noun I
 只 conjunction I
@@ -3055,6 +3573,7 @@
 一 number I
 事 noun I
 。 punctuation I
+
 兩 number I
 脚 noun I
 立 verb I
@@ -3062,6 +3581,7 @@
 是 verb I
 敬 noun I
 ， punctuation I
+
 才 noun I
 行 noun N
 是 verb I
@@ -3071,6 +3591,7 @@
 是 verb I
 敬 noun I
 ， punctuation I
+
 開 set_phrase I
 眼 set_phrase N
 見 set_phrase N
@@ -3079,14 +3600,17 @@
 是 verb I
 義 noun I
 。 punctuation I
+
 從 noun I
 周 noun N
+
 方 noun I
 未 particle I
 有 verb I
 事 verb N
 時 expression I
 ， punctuation I
+
 只 adverb I
 得 adverb N
 說 verb I
@@ -3095,13 +3619,16 @@
 直 set_phrase N
 內 set_phrase N
 ” punctuation I
+
 。 punctuation I
+
 若 conjunction I
 事 noun I
 物 noun N
 之 pronoun I
 來 verb I
 ， punctuation I
+
 當 adverb I
 辨 verb I
 別 verb N
@@ -3110,6 +3637,7 @@
 是 noun I
 非 noun N
 ， punctuation I
+
 不 particle I
 成 verb I
 只 classifier I
@@ -3117,6 +3645,7 @@
 敬 noun I
 去 verb I
 。 punctuation I
+
 敬 noun I
 義 noun I
 不 particle I
@@ -3124,11 +3653,14 @@
 兩 number I
 事 noun I
 。 punctuation I
+
 德 noun I
 明 noun N
+
 敬 noun I
 者 pronoun I
 ， punctuation I
+
 守 verb I
 此 pronoun I
 而 conjunction I
@@ -3139,6 +3671,7 @@
 義 noun I
 者 pronoun I
 ， punctuation I
+
 施 noun I
 彼 pronoun I
 而 conjunction I
@@ -3147,21 +3680,26 @@
 之 set_phrase N
 謂 set_phrase N
 。 punctuation I
+
 夔 noun I
 孫 noun N
+
 敬 noun I
 要 verb I
 回 verb I
 頭 verb N
 看 verb I
 ， punctuation I
+
 義 noun I
 要 verb I
 前 expression I
 看 verb I
 。 punctuation I
+
 壽 noun I
 昌 noun N
+
 明 noun I
 道 noun N
 教 verb I
@@ -3169,6 +3707,7 @@
 靜 noun I
 坐 noun N
 ， punctuation I
+
 李 noun I
 先 noun I
 生 noun N
@@ -3178,11 +3717,13 @@
 靜 noun I
 坐 noun N
 。 punctuation I
+
 精 set_phrase I
 神 set_phrase N
 不 set_phrase N
 定 set_phrase N
 ， punctuation I
+
 則 conjunction I
 道 noun I
 理 noun N
@@ -3192,33 +3733,40 @@
 處 noun I
 。 punctuation I
 ” punctuation I
+
 又 adverb I
 雲 verb I
 ： punctuation I
+
 須 verb I
 是 verb I
 靜 noun I
 坐 noun N
 ， punctuation I
+
 方 verb I
 能 verb N
 收 verb I
 斂 verb N
 。 punctuation I
 ” punctuation I
+
 佐 noun I
 下 verb I
 論 verb I
 靜 noun I
 。 punctuation I
+
 或 adverb I
 問 verb I
 ： punctuation I
+
 靜 noun I
 坐 noun N
 應 verb I
 事 verb N
 ， punctuation I
+
 皆 adverb I
 要 verb I
 專 verb I
@@ -3226,8 +3774,11 @@
 否 question_word I
 ？ punctuation I
 ” punctuation I
+
+
 曰 verb I
 ： punctuation I
+
 靜 noun I
 坐 noun N
 非 particle I
@@ -3238,17 +3789,20 @@
 入 set_phrase N
 定 set_phrase N
 ， punctuation I
+
 斷 set_phrase I
 絕 set_phrase N
 思 set_phrase N
 慮 set_phrase N
 。 punctuation I
+
 只 classifier I
 收 verb I
 斂 verb N
 此 noun I
 心 noun N
 ， punctuation I
+
 莫 particle I
 令 noun I
 走 verb I
@@ -3257,6 +3811,7 @@
 思 noun I
 慮 noun N
 ， punctuation I
+
 則 conjunction I
 此 noun I
 心 noun N
@@ -3265,16 +3820,19 @@
 無 set_phrase N
 事 set_phrase N
 ， punctuation I
+
 自 noun I
 然 noun N
 專 verb I
 一 verb N
 。 punctuation I
+
 及 adverb I
 其 adverb N
 有 verb I
 事 verb N
 ， punctuation I
+
 則 conjunction I
 隨 verb I
 事 noun I
@@ -3283,12 +3841,14 @@
 事 noun I
 已 verb I
 ， punctuation I
+
 則 conjunction I
 復 verb I
 湛 verb I
 然 verb N
 矣 particle I
 。 punctuation I
+
 不 particle I
 要 verb I
 因 conjunction I
@@ -3302,21 +3862,25 @@
 兩 number I
 件 classifier I
 。 punctuation I
+
 如 conjunction I
 此 conjunction N
 ， punctuation I
+
 則 conjunction I
 然 verb I
 無 particle I
 頭 noun I
 項 noun N
 ， punctuation I
+
 何 question_word I
 以 question_word N
 得 verb I
 他 pronoun I
 專 verb I
 一 verb N
+
 只 classifier I
 觀 verb I
 文 noun I
@@ -3326,21 +3890,25 @@
 在 set_phrase N
 宮 set_phrase N
 ， punctuation I
+
 肅 set_phrase I
 肅 set_phrase N
 在 set_phrase N
 廟 set_phrase N
 ， punctuation I
+
 不 set_phrase I
 顯 set_phrase N
 亦 set_phrase N
 臨 set_phrase N
 ， punctuation I
+
 無 set_phrase I
 射 set_phrase N
 亦 set_phrase N
 保 set_phrase N
 ， punctuation I
+
 便 verb I
 可 verb I
 見 verb N
@@ -3350,6 +3918,7 @@
 如 conjunction I
 此 conjunction N
 。 punctuation I
+
 古 noun I
 人 noun N
 自 pronoun I
@@ -3363,6 +3932,7 @@
 工 noun I
 夫 noun N
 ， punctuation I
+
 故 noun I
 方 noun I
 其 verb I
@@ -3374,48 +3944,58 @@
 之 set_phrase N
 禮 set_phrase N
 ， punctuation I
+
 至 conjunction I
 於 conjunction N
 學 verb I
 詩 noun I
 ， punctuation I
+
 學 verb I
 樂 noun I
 舞 noun N
 ， punctuation I
+
 學 verb I
 弦 noun I
 誦 noun N
 ， punctuation I
+
 皆 adverb I
 要 verb I
 專 verb I
 一 verb N
 。 punctuation I
+
 且 conjunction I
 學 verb I
 射 verb N
 時 expression I
 ， punctuation I
+
 心 noun I
 若 conjunction I
 不 particle I
 在 verb I
 ， punctuation I
+
 何 question_word I
 以 question_word N
 能 verb I
 中 verb I
 。 punctuation I
+
 學 verb I
 御 verb N
 時 expression I
 ， punctuation I
+
 心 noun I
 若 conjunction I
 不 particle I
 在 verb I
 ， punctuation I
+
 何 question_word I
 以 question_word N
 使 verb I
@@ -3423,11 +4003,13 @@
 他 pronoun I
 馬 noun I
 。 punctuation I
+
 書 noun I
 數 noun I
 皆 adverb I
 然 verb I
 。 punctuation I
+
 今 expression I
 自 pronoun I
 小 verb I
@@ -3436,10 +4018,12 @@
 做 verb I
 得 verb N
 ， punctuation I
+
 不 particle I
 奈 verb I
 何 verb N
 ， punctuation I
+
 須 verb I
 着 verb I
 今 expression I
@@ -3448,6 +4032,7 @@
 方 noun I
 得 verb I
 。 punctuation I
+
 若 conjunction I
 不 particle I
 做 verb I
@@ -3455,6 +4040,7 @@
 工 noun I
 夫 noun N
 ， punctuation I
+
 却 adverb I
 要 verb I
 讀 verb I
@@ -3463,6 +4049,7 @@
 義 noun I
 理 noun N
 ， punctuation I
+
 恰 adverb I
 似 adverb N
 要 verb I
@@ -3472,6 +4059,7 @@
 基 noun I
 地 noun N
 ， punctuation I
+
 且 conjunction I
 無 particle I
 安 verb I
@@ -3480,6 +4068,7 @@
 柱 noun N
 處 noun I
 。 punctuation I
+
 今 expression I
 且 conjunction I
 說 verb I
@@ -3496,6 +4085,7 @@
 入 verb N
 否 question_word I
 ？ punctuation I
+
 會 noun I
 與 preposition I
 聖 noun I
@@ -3506,11 +4096,13 @@
 契 verb N
 否 question_word I
 ？ punctuation I
+
 今 expression I
 求 verb I
 此 noun I
 心 noun N
 ， punctuation I
+
 正 verb I
 要 verb I
 立 verb I
@@ -3518,22 +4110,26 @@
 基 noun I
 址 noun N
 ， punctuation I
+
 得 verb I
 此 noun I
 心 noun N
 光 noun I
 明 noun N
 ， punctuation I
+
 有 verb I
 箇 classifier I
 存 verb I
 主 noun I
 處 noun I
 ， punctuation I
+
 然 verb I
 後 expression I
 學 verb I
 ， punctuation I
+
 便 verb I
 有 verb I
 歸 verb I
@@ -3541,6 +4137,7 @@
 不 particle I
 錯 verb I
 。 punctuation I
+
 若 conjunction I
 心 noun I
 雜 set_phrase I
@@ -3548,17 +4145,20 @@
 昏 set_phrase N
 亂 set_phrase N
 ， punctuation I
+
 自 set_phrase I
 無 set_phrase N
 頭 set_phrase N
 當 set_phrase N
 ， punctuation I
+
 却 adverb I
 學 verb I
 那 question_word I
 頭 noun I
 去 verb I
 ？ punctuation I
+
 何 question_word I
 處 noun I
 是 verb I
@@ -3566,6 +4166,7 @@
 功 verb N
 處 noun I
 ？ punctuation I
+
 故 noun I
 程 noun I
 先 noun I
@@ -3579,17 +4180,21 @@
 工 verb N
 夫 verb N
 ， punctuation I
+
 正 verb I
 此 pronoun I
 也 particle I
 。 punctuation I
 ” punctuation I
+
 大 noun I
 雅 noun N
+
 一 number I
 之 pronoun I
 問 verb I
 ： punctuation I
+
 存 noun I
 養 noun N
 多 verb I
@@ -3598,12 +4203,15 @@
 否 question_word I
 ？ punctuation I
 ” punctuation I
+
 曰 verb I
 ： punctuation I
+
 不 particle I
 必 noun I
 然 noun N
 。 punctuation I
+
 孔 noun I
 子 noun N
 就 adverb I
@@ -3615,12 +4223,14 @@
 工 verb N
 夫 verb N
 。 punctuation I
+
 今 expression I
 雖 conjunction I
 說 verb I
 主 noun I
 靜 noun N
 ， punctuation I
+
 然 verb I
 非 particle I
 棄 verb I
@@ -3629,10 +4239,12 @@
 求 verb I
 靜 noun I
 。 punctuation I
+
 既 adverb I
 爲 verb I
 人 verb N
 ， punctuation I
+
 自 noun I
 然 noun N
 用 verb I
@@ -3640,42 +4252,51 @@
 君 noun I
 親 noun N
 ， punctuation I
+
 交 verb I
 朋 noun I
 友 noun N
 ， punctuation I
+
 撫 verb I
 妻 noun I
 子 noun N
 ， punctuation I
+
 御 noun I
 僮 noun I
 僕 noun N
 。 punctuation I
+
 不 particle I
 成 verb I
 捐 verb I
 棄 verb I
 了 verb I
 ， punctuation I
+
 只 classifier I
 閉 verb I
 門 verb N
 靜 noun I
 坐 noun N
 ， punctuation I
+
 事 noun I
 物 noun N
 之 pronoun I
 來 verb I
 ， punctuation I
+
 且 conjunction I
 曰 verb I
 ： punctuation I
+
 候 verb I
 我 pronoun I
 存 noun I
 養 noun N
+
 可 conjunction I
 只 classifier I
 茫 adverb I
@@ -3687,6 +4308,7 @@
 中 verb I
 走 verb I
 。 punctuation I
+
 二 number I
 者 pronoun I
 須 verb I
@@ -3700,59 +4322,73 @@
 得 verb N
 。 punctuation I
 ” punctuation I
+
+
 之 RelM I
 ， punctuation I
+
 復 verb I
 曰 verb I
 ： punctuation I
+
 動 noun I
 時 expression I
 ， punctuation I
+
 靜 noun I
 便 verb I
 在 verb I
 這 expression I
 裏 expression N
 。 punctuation I
+
 動 noun I
 時 expression I
 也 adverb I
 有 verb I
 靜 noun I
 ， punctuation I
+
 順 verb I
 理 verb N
 而 conjunction I
 應 verb I
 ， punctuation I
+
 則 conjunction I
 雖 conjunction I
 動 noun I
 靜 noun I
 也 particle I
 。 punctuation I
+
 故 noun I
 曰 verb I
 ： punctuation I
+
 知 verb I
 止 verb I
 ， punctuation I
+
 而 adverb I
 後 adverb N
 有 verb I
 定 verb I
 定 verb I
 ， punctuation I
+
 而 adverb I
 後 adverb N
 能 verb I
 靜 noun I
 。 punctuation I
+
 事 noun I
 物 noun N
 之 pronoun I
 來 verb I
 ， punctuation I
+
 若 conjunction I
 不 particle I
 順 verb I
@@ -3760,6 +4396,7 @@
 而 conjunction I
 應 verb I
 ， punctuation I
+
 則 conjunction I
 雖 conjunction I
 塊 classifier I
@@ -3771,18 +4408,21 @@
 求 verb I
 靜 noun I
 ， punctuation I
+
 心 noun I
 不 particle I
 能 verb I
 得 verb I
 靜 noun I
 。 punctuation I
+
 動 noun I
 時 expression I
 能 verb I
 順 verb I
 理 verb N
 ， punctuation I
+
 則 conjunction I
 無 noun I
 事 noun N
@@ -3794,12 +4434,14 @@
 能 verb I
 存 verb I
 ， punctuation I
+
 則 conjunction I
 動 noun I
 時 expression I
 得 verb I
 力 verb N
 。 punctuation I
+
 須 verb I
 是 verb I
 動 noun I
@@ -3809,6 +4451,7 @@
 工 verb N
 夫 verb N
 ， punctuation I
+
 靜 noun I
 時 expression I
 也 adverb I
@@ -3816,11 +4459,13 @@
 工 verb N
 夫 verb N
 ， punctuation I
+
 兩 set_phrase I
 莫 set_phrase N
 相 set_phrase N
 靠 set_phrase N
 ， punctuation I
+
 使 verb I
 工 noun I
 夫 noun N
@@ -3828,38 +4473,46 @@
 間 verb I
 斷 verb N
 ， punctuation I
+
 始 verb I
 得 verb N
 。 punctuation I
+
 若 conjunction I
 無 particle I
 間 verb I
 斷 verb N
 ， punctuation I
+
 靜 noun I
 時 expression I
 靜 noun I
 ， punctuation I
+
 動 noun I
 時 expression I
 心 noun I
 不 particle I
 動 noun I
 ， punctuation I
+
 動 noun I
 靜 noun I
 也 particle I
 。 punctuation I
+
 若 conjunction I
 無 particle I
 工 noun I
 夫 noun N
 ， punctuation I
+
 則 conjunction I
 動 noun I
 時 expression I
 動 noun I
 ， punctuation I
+
 靜 noun I
 時 expression I
 雖 conjunction I
@@ -3867,29 +4520,35 @@
 求 verb I
 靜 noun I
 ， punctuation I
+
 可 conjunction I
 得 verb I
 而 conjunction I
 靜 noun I
 ， punctuation I
+
 靜 noun I
 動 noun I
 也 particle I
 。 punctuation I
+
 動 noun I
 靜 noun I
 ， punctuation I
+
 如 preposition I
 船 noun I
 之 pronoun I
 在 verb I
 水 noun I
 ， punctuation I
+
 潮 noun I
 至 verb I
 則 conjunction I
 動 noun I
 ， punctuation I
+
 潮 noun I
 退 verb I
 則 conjunction I
@@ -3899,70 +4558,86 @@
 則 conjunction I
 動 noun I
 ， punctuation I
+
 無 noun I
 事 noun N
 則 conjunction I
 靜 noun I
 。 punctuation I
+
 此 pronoun I
 段 classifier I
 ， punctuation I
+
 徐 noun I
 居 noun N
 甫 noun N
 錄 verb I
 。 punctuation I
+
 說 verb I
 此 pronoun I
 次 expression I
 日 expression N
 ， punctuation I
+
 見 verb I
 徐 noun I
 ， punctuation I
+
 云 verb I
 ： punctuation I
+
 不 particle I
 成 verb I
 捐 verb I
 棄 verb I
 了 verb I
 ， punctuation I
+
 只 classifier I
 閉 verb I
 門 verb N
 靜 noun I
 坐 noun N
 ， punctuation I
+
 事 noun I
 物 noun N
 之 pronoun I
 來 verb I
 ， punctuation I
+
 如 preposition I
 潮 noun I
 頭 noun N
 高 noun I
 ， punctuation I
+
 船 noun I
 高 noun I
 潮 noun I
 頭 noun N
 下 verb I
 ， punctuation I
+
 船 noun I
 也 adverb I
 下 verb I
 。 punctuation I
 ” punctuation I
+
+
 雖 conjunction I
 然 conjunction N
 ， punctuation I
+
 動 set_phrase I
 靜 set_phrase N
 無 set_phrase N
 端 set_phrase N
 ， punctuation I
+
 截 classifier I
 然 verb I
 爲 preposition I
@@ -3972,39 +4647,47 @@
 之 RelM I
 理 noun I
 。 punctuation I
+
 如 preposition I
 人 noun I
 之 RelM I
 氣 noun I
 ， punctuation I
+
 吸 verb I
 則 conjunction I
 靜 noun I
 ， punctuation I
+
 噓 verb I
 則 conjunction I
 動 noun I
 。 punctuation I
+
 又 adverb I
 問 verb I
 答 verb I
 之 conjunction I
 際 conjunction N
 ， punctuation I
+
 答 verb I
 則 conjunction I
 動 noun I
 也 particle I
 ， punctuation I
+
 止 verb I
 則 conjunction I
 靜 noun I
 矣 particle I
 。 punctuation I
+
 事 noun I
 皆 adverb I
 然 verb I
 。 punctuation I
+
 且 conjunction I
 如 preposition I
 涵 noun I
@@ -4012,10 +4695,12 @@
 致 noun I
 知 noun N
 ， punctuation I
+
 何 question_word I
 所 classifier I
 始 verb I
 ？ punctuation I
+
 但 conjunction I
 學 noun I
 者 noun N
@@ -4027,21 +4712,26 @@
 做 verb I
 去 verb N
 。 punctuation I
+
 程 noun I
 子 noun N
 ： punctuation I
+
 學 verb I
 於 preposition I
 致 noun I
 知 noun N
 。 punctuation I
+
 是 verb I
 知 verb I
 在 verb I
 。 punctuation I
+
 又 adverb I
 曰 verb I
 ： punctuation I
+
 未 particle I
 有 verb I
 致 noun I
@@ -4052,21 +4742,26 @@
 敬 noun I
 者 pronoun I
 。 punctuation I
+
 則 conjunction I
 敬 noun I
 也 adverb I
 在 verb I
 。 punctuation I
+
 此 pronoun I
 推 verb I
 去 verb I
 ， punctuation I
+
 只 classifier I
 管 verb I
 地 noun I
 。 punctuation I
 ” punctuation I
+
 砥 noun I
+
 心 noun I
 未 particle I
 遇 verb I
@@ -4076,6 +4771,7 @@
 是 verb I
 靜 noun I
 ， punctuation I
+
 及 verb I
 至 verb I
 臨 set_phrase I
@@ -4083,43 +4779,51 @@
 方 set_phrase N
 用 set_phrase N
 ， punctuation I
+
 重 verb I
 道 noun I
 此 pronoun I
 二 number I
 字 noun I
 。 punctuation I
+
 便 verb I
 有 verb I
 氣 noun I
 力 noun N
 。 punctuation I
+
 靜 noun I
 時 expression I
 不 particle I
 靜 noun I
 ， punctuation I
+
 思 set_phrase I
 慮 set_phrase N
 散 set_phrase N
 亂 set_phrase N
 ， punctuation I
+
 及 verb I
 至 verb I
 臨 verb I
 事 noun I
 ， punctuation I
+
 已 verb I
 先 adverb I
 倦 verb I
 了 verb I
 。 punctuation I
+
 伊 noun I
 川 noun N
 解 verb I
 靜 noun I
 專 noun N
 ” punctuation I
+
 處 noun I
 云 verb I
 不 particle I
@@ -4132,6 +4836,7 @@
 遂 verb N
 。 punctuation I
 ” punctuation I
+
 閑 verb I
 時 expression I
 須 verb I
@@ -4140,6 +4845,7 @@
 斂 verb N
 定 verb I
 ， punctuation I
+
 做 verb I
 得 verb N
 事 noun I
@@ -4148,42 +4854,54 @@
 精 noun I
 神 noun N
 。 punctuation I
+
+
 靜 noun I
 便 verb I
 定 verb I
 ， punctuation I
+
 熟 verb I
 便 verb I
 透 verb I
 。 punctuation I
+
 義 noun I
 剛 noun N
+
 靜 noun I
 中 verb I
 動 noun I
 ， punctuation I
+
 起 verb I
 念 verb N
 時 expression I
 。 punctuation I
+
 動 noun I
 中 verb I
 靜 noun I
 ， punctuation I
+
 是 verb I
 物 set_phrase I
 各 set_phrase N
 付 set_phrase N
 物 set_phrase N
 。 punctuation I
+
 方 noun I
+
 問 verb I
 ： punctuation I
+
 動 noun I
 靜 noun I
 兩 number I
 字 noun I
 ， punctuation I
+
 人 noun I
 日 noun I
 間 noun I
@@ -4192,14 +4910,18 @@
 煞 adverb I
 少 verb I
 ， punctuation I
+
 動 noun I
 時 expression I
 常 adverb I
 多 verb I
 。 punctuation I
 ” punctuation I
+
+
 曰 verb I
 ： punctuation I
+
 若 conjunction I
 聖 noun I
 人 noun N
@@ -4208,6 +4930,7 @@
 不 particle I
 靜 noun I
 ， punctuation I
+
 至 verb I
 衆 noun I
 人 noun N
@@ -4220,12 +4943,14 @@
 亂 verb I
 了 verb I
 。 punctuation I
+
 如 preposition I
 今 noun I
 人 noun N
 一 number I
 事 noun I
 ， punctuation I
+
 未 adverb I
 嘗 adverb N
 能 verb I
@@ -4233,6 +4958,7 @@
 一 number I
 事 noun I
 ， punctuation I
+
 處 noun I
 之 pronoun I
 從 set_phrase I
@@ -4240,18 +4966,22 @@
 不 set_phrase N
 亂 set_phrase N
 。 punctuation I
+
 其 verb I
 思 noun I
 慮 noun N
 之 pronoun I
 發 verb I
 ， punctuation I
+
 欲 noun I
 此 pronoun I
 ， punctuation I
+
 欲 noun I
 彼 pronoun I
 ， punctuation I
+
 此 pronoun I
 是 verb I
 動 noun I
@@ -4261,13 +4991,16 @@
 也 particle I
 。 punctuation I
 ” punctuation I
+
 端 noun I
 蒙 noun N
+
 靜 noun I
 坐 noun N
 久 verb I
 時 expression I
 ， punctuation I
+
 昏 verb I
 困 verb N
 不 particle I
@@ -4276,13 +5009,17 @@
 起 verb I
 去 verb N
 ， punctuation I
+
 又 adverb I
 鬧 verb I
 了 verb I
 ， punctuation I
+
 不 particle I
 暇 verb I
 思 verb N
 。 punctuation I
+
 德 noun I
 明 noun N
+
